@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Getting Started with Marvel API React 
+Created a project using marvel API, creating useEffects, useStates Hooks, Bootstrap, Material UI and pagination
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
